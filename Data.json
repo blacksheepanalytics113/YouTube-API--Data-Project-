@@ -1,0 +1,60 @@
+
+
+{'etag': 'q5dRDY6MMzapygVIJ-5Te65FLtg',
+ 'items': [{'contentDetails': {'relatedPlaylists': {'likes': '',
+                                                    'uploads': 'UUcbjsobn9lYHUM5S7qQgU5A'}},
+            'etag': '3OrM9GWYUDzcRNr4ztYAaj1OWgU',
+            'id': 'UCcbjsobn9lYHUM5S7qQgU5A',
+            'kind': 'youtube#channel',
+            'snippet': {'country': 'NG',
+                        'customUrl': '@onesoundrevivaltv',
+                        'description': 'One Sound Revival TV is a '
+                                       'non-denominational Fellowship made up '
+                                       'of believers across denominational '
+                                       'lines who hold the conviction of the '
+                                       'manifestation of the Last Day Glory by '
+                                       'a united Body of Christ, paraphrased '
+                                       'as ‘One Sound’, seen in 2Chronicles '
+                                       '5:13-14.\n'
+                                       '\n'
+                                       'We believe that unity of the church '
+                                       'refers to the union of the people of '
+                                       'God, in all their various distinctive '
+                                       'expressions, bound to God and to one '
+                                       'another by the Gospel.',
+                        'localized': {'description': 'One Sound Revival TV is '
+                                                     'a non-denominational '
+                                                     'Fellowship made up of '
+                                                     'believers across '
+                                                     'denominational lines who '
+                                                     'hold the conviction of '
+                                                     'the manifestation of the '
+                                                     'Last Day Glory by a '
+                                                     'united Body of Christ, '
+                                                     'paraphrased as ‘One '
+                                                     'Sound’, seen in '
+                                                     '2Chronicles 5:13-14.\n'
+                                                     '\n'
+                                                     'We believe that unity of '
+                                                     'the church refers to the '
+                                                     'union of the people of '
+                                                     'God, in all their '
+                                                     'various distinctive '
+                                                     'expressions, bound to '
+                                                     'God and to one another '
+                                                     'by the Gospel.',
+                                      'title': 'OneSound Revival TV'},
+                        'publishedAt': '2016-09-08T17:28:01Z',
+                        'thumbnails': {'default': {'height': 88,
+                                                   'url': 'https://yt3.ggpht.com/x581h0AZucSLr1oMmk_P3UnbW4TAzT7632ZVIxT9s0COOi-6KGBz3KtNOFLsAJRRpCQj_gBAVwQ=s88-c-k-c0x00ffffff-no-rj',
+                                                'url': 'https://yt3.ggpht.com/x581h0AZucSLr1oMmk_P3UnbW4TAzT7632ZVIxT9s0COOi-6KGBz3KtNOFLsAJRRpCQj_gBAVwQ=s800-c-k-c0x00ffffff-no-rj',
+                                       'medium': {'height': 240,
+                                                  'url': 'https://yt3.ggpht.com/x581h0AZucSLr1oMmk_P3UnbW4TAzT7632ZVIxT9s0COOi-6KGBz3KtNOFLsAJRRpCQj_gBAVwQ=s240-c-k-c0x00ffffff-no-rj',
+                                                  'width': 240}},
+                        'title': 'OneSound Revival TV'},
+            'statistics': {'hiddenSubscriberCount': False,
+                           'subscriberCount': '122000',
+                           'videoCount': '149',
+                           'viewCount': '3975137'}}],
+ 'kind': 'youtube#channelListResponse',
+ 'pageInfo': {'resultsPerPage': 5, 'totalResults': 1}}
